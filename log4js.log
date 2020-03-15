@@ -1,0 +1,404 @@
+[2020-03-10T19:09:54.650] [INFO] default - hello world
+[2020-03-10T19:10:43.065] [INFO] default - hello world
+[2020-03-10T19:12:42.493] [INFO] default - hello world
+[2020-03-10T19:29:42.044] [INFO] default - hello world
+[2020-03-10T19:30:15.795] [INFO] default - hello world
+[2020-03-10T19:30:29.074] [INFO] default - hello world
+[2020-03-10T19:31:13.519] [INFO] default - hello world
+[2020-03-10T19:32:11.839] [INFO] default - hello world
+[2020-03-10T19:36:26.851] [INFO] default - hello world
+[2020-03-10T19:36:34.289] [INFO] default - hello world
+[2020-03-10T19:40:10.567] [INFO] default - hello world
+[2020-03-10T19:40:20.232] [INFO] default - hello world
+[2020-03-10T19:41:21.013] [INFO] default - hello world
+[2020-03-10T19:41:48.147] [INFO] default - hello world
+[2020-03-10T19:42:06.101] [INFO] default - hello world
+[2020-03-10T19:42:25.573] [INFO] default - hello world
+[2020-03-10T19:42:39.060] [INFO] default - hello world
+[2020-03-10T19:43:10.760] [INFO] default - hello world
+[2020-03-10T19:43:32.081] [INFO] default - hello world
+[2020-03-10T19:44:49.140] [INFO] default - hello world
+[2020-03-10T19:45:26.227] [INFO] default - hello world
+[2020-03-10T19:49:58.037] [INFO] default - hello world
+[2020-03-10T19:52:11.057] [INFO] default - hello world
+[2020-03-10T19:53:18.877] [INFO] default - hello world
+[2020-03-10T19:53:54.555] [INFO] default - hello world
+[2020-03-10T19:54:16.123] [INFO] default - hello world
+[2020-03-10T19:54:33.595] [INFO] default - hello world
+[2020-03-10T19:58:51.907] [INFO] default - hello world
+[2020-03-10T20:09:33.402] [INFO] default - ********0.8158941821437795
+[2020-03-10T20:09:35.714] [INFO] default - ********0.4349292409343535
+[2020-03-10T20:10:48.031] [INFO] default - inside scenario1
+[2020-03-10T20:11:04.347] [INFO] default - inside scenario2
+[2020-03-10T20:12:16.774] [INFO] default - ********0.4337089545715769
+[2020-03-10T20:12:17.129] [INFO] default - ********0.3720831261899855
+[2020-03-10T20:12:22.335] [INFO] default - inside scenario11111
+[2020-03-10T20:12:22.662] [INFO] default - inside scenario122222
+[2020-03-10T20:12:25.828] [INFO] default - inside scenario222222
+[2020-03-10T20:12:26.096] [INFO] default - inside scenario21111
+[2020-03-10T20:12:28.786] [INFO] default - inside scenario322222
+[2020-03-10T20:12:29.687] [INFO] default - inside scenario31111
+[2020-03-10T20:12:31.902] [INFO] default - inside scenario422222
+[2020-03-10T20:12:32.666] [INFO] default - inside scenario41111
+[2020-03-10T20:12:34.904] [INFO] default - inside scenario522222
+[2020-03-10T20:12:36.417] [INFO] default - inside scenario511111
+[2020-03-10T20:13:29.664] [INFO] default - ********0.3240989248610353
+[2020-03-10T20:13:29.666] [INFO] default - ********0.5330312598280382
+[2020-03-10T20:13:34.882] [INFO] default - inside scenario11111
+[2020-03-10T20:13:35.355] [INFO] default - inside scenario122222
+[2020-03-10T20:13:37.571] [INFO] default - inside scenario21111
+[2020-03-10T20:13:38.258] [INFO] default - inside scenario222222
+[2020-03-10T20:13:40.558] [INFO] default - inside scenario31111
+[2020-03-10T20:13:40.886] [INFO] default - inside scenario322222
+[2020-03-10T20:13:43.498] [INFO] default - inside scenario41111
+[2020-03-10T20:13:44.518] [INFO] default - inside scenario422222
+[2020-03-10T20:13:46.442] [INFO] default - inside scenario511111
+[2020-03-10T20:16:33.158] [INFO] default - hello world
+[2020-03-10T20:16:43.578] [INFO] default - hello world
+[2020-03-10T20:25:08.418] [INFO] default - hello world
+[2020-03-10T20:25:44.321] [INFO] default - hello world
+[2020-03-10T20:37:29.302] [INFO] default - ********0.324801375193577
+[2020-03-10T20:37:35.864] [INFO] default - inside scenario11111
+[2020-03-10T20:40:50.229] [INFO] default - ********0.013728150683742335
+[2020-03-10T20:40:55.905] [INFO] default - inside scenario11111
+[2020-03-10T20:43:01.425] [INFO] default - inside scenario11111
+[2020-03-10T20:44:37.510] [INFO] default - inside scenario11111
+[2020-03-10T20:45:16.111] [INFO] default - inside scenario11111
+[2020-03-10T20:47:13.895] [INFO] default - inside scenario11111
+[2020-03-10T20:48:38.962] [INFO] default - inside scenario11111
+[2020-03-10T20:49:42.736] [INFO] default - inside scenario11111
+[2020-03-10T20:50:27.890] [INFO] default - ********0.901117476782616
+[2020-03-10T20:50:32.815] [INFO] default - inside scenario11111
+[2020-03-10T20:52:12.103] [INFO] default - ********0.2869475813318101
+[2020-03-10T20:52:17.300] [INFO] default - inside scenario11111
+[2020-03-10T20:53:05.818] [INFO] default - ********0.04778155116983496
+[2020-03-10T20:53:11.136] [INFO] default - inside scenario11111
+[2020-03-10T20:54:04.264] [INFO] default - ********0.4215406234641952
+[2020-03-10T20:54:09.587] [INFO] default - inside scenario11111
+[2020-03-10T20:54:56.864] [INFO] default - ********0.06731297903980082
+[2020-03-10T20:55:02.218] [INFO] default - inside scenario11111
+[2020-03-10T20:57:40.018] [INFO] default - ********0.7377883357831596
+[2020-03-10T20:57:45.674] [INFO] default - inside scenario11111
+[2020-03-10T20:57:45.675] [INFO] default - ------within
+[2020-03-10T21:02:55.255] [INFO] default - ********0.7224326082051118
+[2020-03-10T21:03:00.463] [INFO] default - inside scenario11111
+[2020-03-10T21:18:40.372] [INFO] default - ********0.6691365854071829
+[2020-03-10T21:20:31.982] [INFO] default - ********0.2958240103834193
+[2020-03-10T21:20:37.376] [INFO] default - inside scenario11111
+[2020-03-10T21:20:56.013] [INFO] default - ********0.2954376834437247
+[2020-03-10T21:21:00.948] [INFO] default - inside scenario11111
+[2020-03-10T21:21:38.879] [INFO] default - ********0.47255448117179166
+[2020-03-10T21:21:43.648] [INFO] default - inside scenario11111
+[2020-03-10T21:23:29.286] [INFO] default - ********0.43325309682534385
+[2020-03-10T21:23:34.561] [INFO] default - ########test11 @tag12
+[2020-03-10T21:23:34.565] [INFO] default - inside scenario11111
+[2020-03-10T21:24:10.083] [INFO] default - inside scenario122222
+[2020-03-10T21:24:10.083] [INFO] default - inside scenario11111
+[2020-03-10T21:24:13.178] [INFO] default - inside scenario21111
+[2020-03-10T21:24:13.296] [INFO] default - inside scenario222222
+[2020-03-10T21:24:16.052] [INFO] default - inside scenario31111
+[2020-03-10T21:24:16.366] [INFO] default - inside scenario322222
+[2020-03-10T21:24:19.205] [INFO] default - inside scenario41111
+[2020-03-10T21:24:19.219] [INFO] default - inside scenario422222
+[2020-03-10T21:24:22.124] [INFO] default - inside scenario511111
+[2020-03-10T21:24:22.337] [INFO] default - inside scenario522222
+[2020-03-10T21:24:52.410] [INFO] default - inside scenario11111
+[2020-03-10T21:24:52.409] [INFO] default - inside scenario122222
+[2020-03-10T21:24:55.367] [INFO] default - inside scenario222222
+[2020-03-10T21:24:55.430] [INFO] default - inside scenario21111
+[2020-03-10T21:24:58.341] [INFO] default - inside scenario322222
+[2020-03-10T21:24:58.616] [INFO] default - inside scenario31111
+[2020-03-10T21:25:01.428] [INFO] default - inside scenario422222
+[2020-03-10T21:25:01.599] [INFO] default - inside scenario41111
+[2020-03-10T21:25:04.348] [INFO] default - inside scenario522222
+[2020-03-10T21:25:04.510] [INFO] default - inside scenario511111
+[2020-03-10T21:31:27.717] [INFO] default - inside scenario11111
+[2020-03-10T21:31:27.718] [INFO] default - inside scenario122222
+[2020-03-10T21:31:30.516] [INFO] default - inside scenario222222
+[2020-03-10T21:31:30.611] [INFO] default - inside scenario21111
+[2020-03-10T21:31:33.615] [INFO] default - inside scenario31111
+[2020-03-10T21:31:33.648] [INFO] default - inside scenario322222
+[2020-03-10T21:31:36.894] [INFO] default - inside scenario41111
+[2020-03-10T21:31:36.896] [INFO] default - inside scenario422222
+[2020-03-10T21:31:40.214] [INFO] default - inside scenario511111
+[2020-03-10T21:31:40.224] [INFO] default - inside scenario522222
+[2020-03-14T15:39:26.187] [INFO] default - **********_beforeSuite undefined**********
+[2020-03-14T15:39:30.108] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:39:30.112] [INFO] default - inside scenario11111
+[2020-03-14T15:39:30.253] [INFO] default - **********_after undefined**********
+[2020-03-14T15:39:33.078] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario21111");
+}**********
+[2020-03-14T15:39:33.079] [INFO] default - inside scenario21111
+[2020-03-14T15:39:33.096] [INFO] default - **********_after undefined**********
+[2020-03-14T15:39:35.864] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario31111");
+}**********
+[2020-03-14T15:39:35.866] [INFO] default - inside scenario31111
+[2020-03-14T15:39:35.923] [INFO] default - **********_after undefined**********
+[2020-03-14T15:39:38.755] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario41111");
+}**********
+[2020-03-14T15:39:38.757] [INFO] default - inside scenario41111
+[2020-03-14T15:39:38.780] [INFO] default - **********_after undefined**********
+[2020-03-14T15:39:41.475] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario511111");
+}**********
+[2020-03-14T15:39:41.476] [INFO] default - inside scenario511111
+[2020-03-14T15:39:41.502] [INFO] default - **********_after undefined**********
+[2020-03-14T15:39:41.513] [INFO] default - **********_afterSuite undefined**********
+[2020-03-14T15:40:17.183] [INFO] default - **********_beforeSuite undefined**********
+[2020-03-14T15:40:19.855] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:40:19.859] [INFO] default - inside scenario11111
+[2020-03-14T15:40:19.894] [INFO] default - **********_after undefined**********
+[2020-03-14T15:40:19.953] [INFO] default - **********_afterSuite undefined**********
+[2020-03-14T15:40:59.573] [INFO] default - **********_beforeSuite [object Object]**********
+[2020-03-14T15:41:02.336] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:41:02.339] [INFO] default - inside scenario11111
+[2020-03-14T15:41:02.376] [INFO] default - **********_after [object Object]**********
+[2020-03-14T15:41:02.385] [INFO] default - **********_afterSuite [object Object]**********
+[2020-03-14T15:45:13.578] [INFO] default - **********_beforeSuite [object Object]**********
+[2020-03-14T15:45:16.260] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:45:16.264] [INFO] default - inside scenario11111
+[2020-03-14T15:45:16.289] [INFO] default - **********_after [object Object]**********
+[2020-03-14T15:45:16.301] [INFO] default - **********_afterSuite [object Object]**********
+[2020-03-14T15:46:53.938] [INFO] default - **********_beforeSuite title,ctx,suites,tests,pending,_beforeEach,_beforeAll,_afterEach,_afterAll,root,_timeout,_enableTimeouts,_slow,_bail,_retries,_onlyTests,_onlySuites,delayed,_events,_eventsCount,parent,tags,file,fullTitle**********
+[2020-03-14T15:46:56.621] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:46:56.624] [INFO] default - inside scenario11111
+[2020-03-14T15:46:56.644] [INFO] default - **********_after **********
+[2020-03-14T15:46:56.654] [INFO] default - **********_afterSuite title,ctx,suites,tests,pending,_beforeEach,_beforeAll,_afterEach,_afterAll,root,_timeout,_enableTimeouts,_slow,_bail,_retries,_onlyTests,_onlySuites,delayed,_events,_eventsCount,parent,tags,file,fullTitle**********
+[2020-03-14T15:49:06.090] [INFO] default - **********_beforeSuite Testing1**********
+[2020-03-14T15:49:08.790] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:49:08.795] [INFO] default - inside scenario11111
+[2020-03-14T15:49:08.831] [INFO] default - **********_after **********
+[2020-03-14T15:49:08.853] [INFO] default - **********_afterSuite Testing1**********
+[2020-03-14T15:49:34.580] [INFO] default - **********_beforeSuite [object Object]**********
+[2020-03-14T15:49:37.228] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:49:37.232] [INFO] default - inside scenario11111
+[2020-03-14T15:49:37.284] [INFO] default - **********_after **********
+[2020-03-14T15:49:37.294] [INFO] default - **********_afterSuite [object Object]**********
+[2020-03-14T15:50:13.125] [INFO] default - **********_beforeSuite 0**********
+[2020-03-14T15:50:15.791] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:50:15.795] [INFO] default - inside scenario11111
+[2020-03-14T15:50:15.816] [INFO] default - **********_after **********
+[2020-03-14T15:50:15.826] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T15:52:10.317] [INFO] default - **********_beforeSuite false**********
+[2020-03-14T15:52:13.005] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:52:13.010] [INFO] default - inside scenario11111
+[2020-03-14T15:52:13.063] [INFO] default - **********_after **********
+[2020-03-14T15:52:13.072] [INFO] default - **********_afterSuite false**********
+[2020-03-14T15:55:05.508] [INFO] default - **********_beforeSuite false**********
+[2020-03-14T15:55:08.310] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:55:08.314] [INFO] default - inside scenario11111
+[2020-03-14T15:55:08.335] [INFO] default - **********_after **********
+[2020-03-14T15:55:08.365] [INFO] default - **********_afterSuite false**********
+[2020-03-14T15:55:53.254] [INFO] default - **********_beforeSuite false**********
+[2020-03-14T15:55:55.968] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T15:55:55.969] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:55:55.972] [INFO] default - inside scenario11111
+[2020-03-14T15:55:55.993] [INFO] default - **********_after **********
+[2020-03-14T15:55:56.002] [INFO] default - **********_afterSuite false**********
+[2020-03-14T15:59:25.078] [INFO] default - **********_beforeSuite false**********
+[2020-03-14T15:59:27.718] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T15:59:27.719] [INFO] default - **********_before (I) => {
+    logger.info("inside scenario11111");
+    // logger.info(`------${codeceptjs.event.}`);
+}**********
+[2020-03-14T15:59:27.723] [INFO] default - inside scenario11111
+[2020-03-14T15:59:27.725] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T15:59:27.743] [INFO] default - **********_after **********
+[2020-03-14T15:59:27.752] [INFO] default - **********_afterSuite false**********
+[2020-03-14T16:00:55.597] [INFO] default - **********_beforeSuite false**********
+[2020-03-14T16:00:58.273] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:00:58.277] [INFO] default - inside scenario11111
+[2020-03-14T16:00:58.686] [INFO] default - **********_failed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,err**********
+[2020-03-14T16:00:58.741] [INFO] default - **********_after **********
+[2020-03-14T16:00:58.750] [INFO] default - **********_afterSuite false**********
+[2020-03-14T16:03:31.487] [INFO] default - **********_beforeSuite 0**********
+[2020-03-14T16:03:34.141] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:03:34.144] [INFO] default - inside scenario11111
+[2020-03-14T16:03:34.147] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:03:34.166] [INFO] default - **********_after **********
+[2020-03-14T16:03:34.175] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:04:55.989] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:04:58.698] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:04:58.702] [INFO] default - inside scenario11111
+[2020-03-14T16:04:58.705] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:04:58.724] [INFO] default - **********_after **********
+[2020-03-14T16:04:58.734] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:11:29.466] [INFO] default - **********bootstrap *********
+[2020-03-14T16:14:03.892] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:14:06.561] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:14:06.564] [INFO] default - inside scenario11111
+[2020-03-14T16:14:06.567] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:14:06.601] [INFO] default - **********_after **********
+[2020-03-14T16:14:06.632] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:16:36.058] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:16:38.703] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:16:38.707] [INFO] default - inside scenario11111
+[2020-03-14T16:16:38.710] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:16:38.738] [INFO] default - **********_after **********
+[2020-03-14T16:16:38.748] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:17:54.069] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:17:56.774] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:17:56.777] [INFO] default - inside scenario11111
+[2020-03-14T16:17:56.781] [INFO] default - **********_beforeStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep**********
+[2020-03-14T16:17:57.790] [INFO] default - **********_afterStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep,startTime**********
+[2020-03-14T16:17:57.792] [INFO] default - **********_beforeStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep**********
+[2020-03-14T16:17:58.793] [INFO] default - **********_afterStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep,startTime**********
+[2020-03-14T16:17:58.795] [INFO] default - **********_beforeStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep**********
+[2020-03-14T16:17:59.796] [INFO] default - **********_afterStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep,startTime**********
+[2020-03-14T16:17:59.803] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:17:59.857] [INFO] default - **********_after **********
+[2020-03-14T16:17:59.871] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:19:49.164] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:19:51.832] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:19:51.837] [INFO] default - inside scenario11111
+[2020-03-14T16:19:51.841] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:19:52.844] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:19:52.846] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:19:53.852] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:19:53.853] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:19:54.870] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:19:54.874] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:19:54.925] [INFO] default - **********_after **********
+[2020-03-14T16:19:54.937] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:21:36.516] [INFO] default - **********_beforeSuite **********
+[2020-03-14T16:21:39.162] [INFO] default - **********_before title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id**********
+[2020-03-14T16:21:39.167] [INFO] default - inside scenario11111
+[2020-03-14T16:21:39.171] [INFO] default - hello world
+[2020-03-14T16:21:39.172] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:21:40.174] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:21:40.177] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:21:41.190] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:21:41.193] [INFO] default - **********_beforeStep wait**********
+[2020-03-14T16:21:42.207] [INFO] default - **********_afterStep wait**********
+[2020-03-14T16:21:42.214] [INFO] default - **********_passed title,fn,body,async,sync,_timeout,_slow,_enableTimeouts,timedOut,_retries,_currentRetry,pending,type,fullTitle,tags,file,inject,steps,parent,ctx,opts,id,_events,_eventsCount,callback,skip,retryNum,state,duration,speed**********
+[2020-03-14T16:21:42.249] [INFO] default - **********_after **********
+[2020-03-14T16:21:42.275] [INFO] default - **********_afterSuite 0**********
+[2020-03-14T16:28:14.293] [INFO] default - **********Executing suite Testing1 **********
+[2020-03-14T16:28:17.074] [INFO] default - **********Executing scenario test11111 @tag1 **********
+[2020-03-14T16:28:17.077] [INFO] default - inside scenario11111
+[2020-03-14T16:28:17.081] [INFO] default - hello world
+[2020-03-14T16:28:17.082] [INFO] default - ********** wait **********
+[2020-03-14T16:28:18.090] [INFO] default - ********** wait **********
+[2020-03-14T16:28:18.093] [INFO] default - ********** wait **********
+[2020-03-14T16:28:19.105] [INFO] default - ********** wait **********
+[2020-03-14T16:28:19.109] [INFO] default - ********** wait **********
+[2020-03-14T16:28:20.129] [INFO] default - ********** wait **********
+[2020-03-14T16:28:20.136] [INFO] default - **********Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T16:28:20.181] [INFO] default - **********Execution completed of suite Testing1 **********
+[2020-03-14T16:29:14.117] [INFO] default - **********Executing suite Testing1 **********
+[2020-03-14T16:29:16.879] [INFO] default - **********Executing scenario test11111 @tag1 **********
+[2020-03-14T16:29:16.883] [INFO] default - inside scenario11111
+[2020-03-14T16:29:16.886] [INFO] default - hello world
+[2020-03-14T16:29:16.887] [INFO] default - ********** wait **********
+[2020-03-14T16:29:17.904] [INFO] default - ********** wait **********
+[2020-03-14T16:29:18.907] [INFO] default - ********** wait **********
+[2020-03-14T16:29:19.921] [INFO] default - **********Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T16:29:19.977] [INFO] default - **********Execution completed of suite Testing1 **********
+[2020-03-14T16:29:50.020] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T16:29:52.724] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T16:29:52.728] [INFO] default - inside scenario11111
+[2020-03-14T16:29:52.731] [INFO] default - hello world
+[2020-03-14T16:29:52.733] [INFO] default - ********** wait **********
+[2020-03-14T16:29:53.738] [INFO] default - ********** wait **********
+[2020-03-14T16:29:54.742] [INFO] default - ********** wait **********
+[2020-03-14T16:29:55.748] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T16:29:55.782] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T16:30:26.603] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T16:30:29.374] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T16:30:29.377] [INFO] default - inside scenario11111
+[2020-03-14T16:30:29.379] [INFO] default - hello world
+[2020-03-14T16:30:29.380] [INFO] default - ********** wait **********
+[2020-03-14T16:30:30.388] [INFO] default - ********** wait **********
+[2020-03-14T16:30:31.392] [INFO] default - ********** wait **********
+[2020-03-14T16:30:32.406] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T16:30:32.465] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T16:31:23.535] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T16:31:26.232] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T16:31:26.235] [INFO] default - inside scenario11111
+[2020-03-14T16:31:26.238] [INFO] default - hello world
+[2020-03-14T16:31:26.239] [INFO] default - ********** wait **********
+[2020-03-14T16:31:27.256] [INFO] default - ********** waitForClickable **********
+[2020-03-14T16:31:27.604] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T16:31:27.638] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T17:18:12.358] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T17:18:15.103] [INFO] default - ********** Executing scenario () => `${suite.title}: ${test.title}` **********
+[2020-03-14T17:18:15.107] [INFO] default - inside scenario11111
+[2020-03-14T17:18:15.110] [INFO] default - hello world
+[2020-03-14T17:18:15.111] [INFO] default - ********** wait **********
+[2020-03-14T17:18:16.116] [INFO] default - ********** waitForClickable **********
+[2020-03-14T17:18:16.483] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T17:18:16.534] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T17:19:55.926] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T17:19:58.630] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T17:19:58.633] [INFO] default - inside scenario11111
+[2020-03-14T17:19:58.636] [INFO] default - hello world
+[2020-03-14T17:19:58.638] [INFO] default - **********_beforeStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep**********
+[2020-03-14T17:19:58.638] [INFO] default - ********** wait **********
+[2020-03-14T17:19:59.649] [INFO] default - **********_afterStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep,startTime**********
+[2020-03-14T17:19:59.652] [INFO] default - **********_beforeStep actor,helper,name,helperMethod,status,suffix,prefix,comment,args,metaStep**********
+[2020-03-14T17:19:59.652] [INFO] default - ********** waitForClickable **********
+[2020-03-14T17:19:59.991] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T17:20:00.035] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T17:21:12.649] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T17:21:15.393] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T17:21:15.397] [INFO] default - inside scenario11111
+[2020-03-14T17:21:15.400] [INFO] default - hello world
+[2020-03-14T17:21:15.401] [INFO] default - ********** 1 **********
+[2020-03-14T17:21:16.415] [INFO] default - ********** 1 **********
+[2020-03-14T17:21:16.417] [INFO] default - **********  **********
+[2020-03-14T17:21:16.758] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T17:21:16.862] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T17:22:02.520] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T17:22:05.393] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T17:22:05.396] [INFO] default - inside scenario11111
+[2020-03-14T17:22:05.398] [INFO] default - hello world
+[2020-03-14T17:22:05.399] [INFO] default - ********** wait 1 **********
+[2020-03-14T17:22:06.403] [INFO] default - ********** wait 1 **********
+[2020-03-14T17:22:06.405] [INFO] default - ********** waitForClickable  **********
+[2020-03-14T17:22:06.786] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T17:22:06.823] [INFO] default - ********** Execution completed of suite Testing1 **********
+[2020-03-14T17:24:23.329] [INFO] default - ********** Executing suite Testing1 **********
+[2020-03-14T17:24:26.136] [INFO] default - ********** Executing scenario test11111 @tag1 **********
+[2020-03-14T17:24:26.139] [INFO] default - inside scenario11111
+[2020-03-14T17:24:26.145] [INFO] default - hello world
+[2020-03-14T17:24:26.146] [INFO] default - ********** wait 1 **********
+[2020-03-14T17:24:27.148] [INFO] default - ********** wait 1 **********
+[2020-03-14T17:24:27.151] [INFO] default - ********** waitForClickable  **********
+[2020-03-14T17:24:27.482] [INFO] default - ********** Execution completed of scenario test11111 @tag1 **********
+[2020-03-14T17:24:27.584] [INFO] default - ********** Execution completed of suite Testing1 **********

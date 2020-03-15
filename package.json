@@ -1,0 +1,19 @@
+{
+  "name": "testing-package-automation-test",
+  "version": "1.0.2",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx codeceptjs run --steps"
+  },
+  "author": "Mesut Ozil",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^5.16.10",
+    "codeceptjs": "^2.5.0",
+    "log4js": "^6.1.2",
+    "webdriver": "^5.18.7",
+    "yargs": "^15.1.0"
+  }
+}
