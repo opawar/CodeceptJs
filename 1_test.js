@@ -4,7 +4,8 @@ const testjs = require("./test");
 
 Feature('Testing1');
 
-Scenario('test11111 @tag1', (I) => {
+Scenario('test11111 @tag123', (I) => {
+    I.amOnPage("https://www.google.com");
     logger.info("inside scenario11111");
     I.wait(1);
     // I.waitForClickable("");
@@ -13,19 +14,3 @@ Scenario('test11111 @tag1', (I) => {
     // throw new Error("hi");
     // logger.info(`------${codeceptjs.event.}`);
 });
-
-// Scenario('test21111 @tag1', (I) => {
-//     logger.info("inside scenario21111");
-// });
-
-// Scenario('test31111 @tag1', (I) => {
-//     logger.info("inside scenario31111");
-// });
-
-// Scenario('test41111 @tag1', (I) => {
-//     logger.info("inside scenario41111");
-// });
-
-// Scenario('test51111 @tag1', (I) => {
-//     logger.info("inside scenario511111");
-// });

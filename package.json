@@ -5,7 +5,7 @@
   "main": "actions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx codeceptjs run --steps"
+    "start": "npx codeceptjs run-multiple sanity --grep '@tag123' --verbose"
   },
   "author": "Mesut Ozil",
   "license": "ISC",

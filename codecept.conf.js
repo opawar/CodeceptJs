@@ -1,7 +1,7 @@
 // require("./readConfig");
 
 exports.config = {
-  tests: './*_test.js',
+  tests: './1_test.js',
   output: './output',
   helpers: {
     WebDriver: {
